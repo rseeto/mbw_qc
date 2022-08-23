@@ -1,0 +1,44 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Virtual Environment
+.venv
+
+# VS Code settings
+.vscode
+
+# Environment
+.env
+
+# Data; remove files but keep file structure
+/data/**
+!/data/**/
+!/data/**/.gitkeep
+
+# Models; remove files but keep file structure
+/models/**
+!/models/**/
+!/models/**/.gitkeep
+
+# Permission to publish code
+RE Code for portfolio.eml
+
+# Archive files
+mbw_qc/archive/**
+notebooks/archive/**
+
+# Presentation
+references/AI QC Discussion - 29OCT2021.pptx

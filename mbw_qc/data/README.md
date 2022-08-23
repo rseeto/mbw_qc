@@ -1,0 +1,1 @@
+Because of the nature of the task, it was not possible to test the functions with a testing suite such as `pytest`. Outlier values were manually checked to ensure data integrity. Please see 'Section 2.i.c' of the [project notebook](../../notebooks/model_training_overview.ipynb) for more information.
